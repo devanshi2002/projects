@@ -198,7 +198,7 @@ class App extends StatelessWidget {
                                         width: 20,
                                       ),
                                       Text(
-                                        "GITHUB : darcy2002",
+                                        "GITHUB : devanshi2002",
                                         style: TextStyle(
                                             //backgroundColor: Colors.pu] color: Colors.purple[900],
                                             fontSize: 18,
